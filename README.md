@@ -20,4 +20,3 @@
 # License Summary
 
 This code is made available under the MIT license. Details [here](LICENSE).
-
